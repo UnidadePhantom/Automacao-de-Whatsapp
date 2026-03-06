@@ -5,6 +5,8 @@
 Projeto desenvolvido em **Node.js** para automação de processos de vendas e atendimento via WhatsApp.  
 Este bot foi criado como demonstração de habilidades técnicas em integração de APIs, automação de mensagens e engenharia comercial aplicada.
 
+Item complementar do meu [portfólio](https://github.com/UnidadePhantom/Portf-lio.git) para fins de apresentação profissional.
+
 ---
 
 ## 📊 Status
