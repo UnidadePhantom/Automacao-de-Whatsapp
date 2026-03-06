@@ -1,9 +1,12 @@
 # Bot de WhatsApp para Automação de Vendas e Atendimento
+
 ![Node.js](https://img.shields.io/badge/Automação-Node.js-green?logo=node.js)
 ## 📖 Descrição
 Projeto desenvolvido em **Node.js** para automação de processos de vendas e atendimento via WhatsApp.  
 Este bot foi criado como demonstração de habilidades técnicas em integração de APIs, automação de mensagens e engenharia comercial aplicada.
+
 ---
+
 ## 📊 Status
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
